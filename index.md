@@ -2,14 +2,15 @@
 layout: default
 title: About
 ---
+footnote Here [^1].
 
-:bouncing_ball_person:
+:bouncing_ball_person:    :+1:
 
-##Pilvipalvelut bundle E
+Pilvipalvelut bundle E
 
-###Mark*down*
+Mark*down*
 
-##__Mark__down  :+1:
+*Mark*down 
 
 -12:48
 
@@ -18,7 +19,8 @@ title: About
 1. First list item
 2. Second list item
 
-1. First list item testi spacebar
+
+1. First list item testi spacebar number 1
 
 2. Second list item testi spacebar
 
@@ -32,3 +34,5 @@ title: About
      - First nested list item spacebar
 
        - Second nested list item spacebar
+
+[^1]: My reference.
